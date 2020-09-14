@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Styling on HTML Form</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="form-wrap">
+<form>
+<h1>Sign up</h1>
+<input type="text"placeholder="Name">
+<input type="text"placeholder="Username">
+<input type="email"placeholder="Email">
+<input type="password"placeholder="Password">
+<input type="password"placeholder="Confirm Password"><br>
+<input type="button" value="Submit" id="submit">
+</form>
+</div>
+</body>
+</html>
